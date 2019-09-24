@@ -15,5 +15,4 @@ Stuff for the blog at blog.ai.ovgu.de. This is just a repo/backup -- it doesn't 
 
 
 ## Acknowledgments
-
 The template/format is that used by [Distill](distill.pub). The precise implementation used here has been adapted from the [World Models github page](https://github.com/worldmodels/worldmodels.github.io).

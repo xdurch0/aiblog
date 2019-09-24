@@ -5,4 +5,5 @@ cp draft.html index.html
 rm draft.html
 rm draft_appendix.html
 rm draft_body.html
+python bin/code_center.py index.html
 echo "Compiled markdown."
