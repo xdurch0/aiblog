@@ -20,6 +20,6 @@ I wonder what a really big heading looks like?
 
 # BIG HEADing Here Now
 
-Here is a test cication: <dt-cite key="Kaelbling:96,sutton_barto,wiering2012"></dt-cite> Let's hope this does something!
+Here is a test cication: <dt-cite key="sutton_barto,memory_consolidation"></dt-cite> Let's hope this does something!
 
 Or how about a footnote? <dt-fn>I use too many footnotes. But whatever. Looks professional.</dt-fn>
