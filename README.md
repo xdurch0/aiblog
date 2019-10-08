@@ -23,7 +23,7 @@ to be the one with `make` in it!
 be in the main folder to work properly
 
 
-## Acknowledgments
+## Acknowledgements
 The template/format is that used by [Distill](distill.pub). The precise 
 implementation used here has been adapted from the 
 [World Models github page](https://github.com/worldmodels/worldmodels.github.io).
